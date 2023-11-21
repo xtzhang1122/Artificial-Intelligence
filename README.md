@@ -1,6 +1,6 @@
-# ROB311-Artificial-Intelligence
+# Artificial-Intelligence
 
-This repo contains 3 programming projects for ROB311 Artificial Intelligence. Topics covered in each project are listed below:
+This repo contains 3 programming projects for Artificial Intelligence. Topics covered in each project are listed below:
 
 ## Project 1
 - Breath First Search
